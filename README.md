@@ -14,7 +14,7 @@
 <br><br><br><br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dineslama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dinesh Lama's Github Status">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dineslama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dinesh Lama's Github Stats">
 </p>
 
 
