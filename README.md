@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.dreamstime.com/black-hacker-software-engineer-symbol-white-background-concept-depicting-danger-using-internet-protection-co-image117453507" height="200"/>
+</p>
+<br>
 ## Hi there 👋   
 <!-- I usually write at  : https://chandanbhagat.com.np  
 🕸 **Finding me 👉 https://me.chandanbhagat.com.np** 🕸  
