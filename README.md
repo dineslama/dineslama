@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://thumbs.dreamstime.com/z/black-hacker-software-engineer-symbol-white-background-concept-depicting-danger-using-internet-protection-co-117453507.jpg" height="200"/>
+</p>
+<br>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=dineslama&color=brightgreen" alt="watching_count" />
  </p>
