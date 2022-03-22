@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://thumbs.dreamstime.com/z/black-hacker-software-engineer-symbol-white-background-concept-depicting-danger-using-internet-protection-co-117453507.jpg" height="200"/>
-</p>
-<br>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=dineslama&color=brightgreen" alt="watching_count" />
@@ -12,7 +8,7 @@
   <img src="https://img.shields.io/badge/Lives-Nepal-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Nepali-brightgreen" />
 </p>
-<hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dinesh Lama </h1>
 <h3 align="center">Software Engineer | Data Science Enthusiastic </h3>
 <p align="center">
