@@ -59,7 +59,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img height="50" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png"></code>
+  <code><img height="50" src="https://seeklogo.com/images/G/git-logo-F4A93DAA20-seeklogo.com.png"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
@@ -84,12 +85,12 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineslama&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="_dinesh" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dineslama&show_icons=true&locale=en&theme=chartreuse-dark" alt="_dinesh" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=dineslama&theme=juicyfresh&no-bg=true" />
