@@ -1,5 +1,10 @@
 ## Hi there 👋   
-
+/* I usually write at  : https://chandanbhagat.com.np  
+🕸 **Finding me 👉 https://me.chandanbhagat.com.np** 🕸  
+<br>  
+### Some of my works
+💻 **A utility tool I have been working on with Angular and firebase : 👉https://util.chandanbhagat.com.np**   
+<br><br> */
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
