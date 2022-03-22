@@ -2,6 +2,7 @@
   <img src="https://thumbs.dreamstime.com/z/black-hacker-software-engineer-symbol-white-background-concept-depicting-danger-using-internet-protection-co-117453507.jpg" height="200"/>
 </p>
 <br>
+
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=dineslama&color=brightgreen" alt="watching_count" />
  </p>
@@ -13,15 +14,15 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dinesh Lama </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center">Software Engineer | Data Science Enthusiastic </h3>
 <p align="center">
-
 <a href="https://www.instagram.com/lama.dinesh/" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="insta_dinesh" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dinesh.lama.18/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_dinesh" height="30" width="40" /></a>
- <a href = "mailto: dineshlm136@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-<a href = "mailto: dineslama@outlook.com"><img align="center" src="https://seeklogo.com/images/M/microsoft-outlook-logo-188AB32C94-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://www.facebook.com/dinesh.lama.18/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_dinesh" height="30" width="40"/></a>
+ <a href = "mailto: dineshlm136@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40"/></a>
+<a href = "mailto: dineslama@outlook.com"><img align="center" src="https://seeklogo.com/images/M/microsoft-outlook-logo-188AB32C94-seeklogo.com.png" height="30" width="40"/></a>
 </p>
 </p>
+
 
 <p align="center">
   <em>
@@ -32,13 +33,12 @@
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50"/> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50"/>
 </p>
 <br><br>
-
-
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ***About me ....***
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently freelancer for various companies<br>
