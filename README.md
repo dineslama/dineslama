@@ -48,11 +48,14 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently trainer and freelancer for various companies<br>
+✔ I’m currently freelancer for various companies<br>
+✔ I’m currently learning about **deep learning**🥰<br>
 ✔ I’m currently learning about **machine learning in ML.NET and Tensorflowjs**🥰<br>
+✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ I’m looking to collaborate with any **Open - Source ML.NET and Tensorflowjs projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
-✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎
+  <br><br><br><br>
 
 <br><br><br><br>
 
