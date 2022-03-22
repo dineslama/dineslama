@@ -59,9 +59,10 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  <code><img height="50" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png"></code>
+ 
+  <code> <img height="50" src="https://seeklogo.com/images/P/python-logo-AE8E0705F6-seeklogo.com.png"> </code>
+ <code><img height="50" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png"></code>
   <code><img height="50" src="https://seeklogo.com/images/G/git-logo-F4A93DAA20-seeklogo.com.png"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
