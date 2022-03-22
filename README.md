@@ -22,6 +22,6 @@
 </p>      
   
 <p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=chandan-g-bhagat&theme=juicyfresh&no-bg=true" alt="chandan-g-bhagat" />  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=dineslama&theme=juicyfresh&no-bg=true" alt="dineslama" />  
 
 </p>
